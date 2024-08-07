@@ -13,3 +13,6 @@ Step 1: Create firehose stream
 Step 2: Choose source and Destination
 
 ![Choose source and Destination](../assets/choose-source-and-destination.png)
+
+Step 3: Choose Destination
+![Choose Destination](../assets/choose-destination.png)
