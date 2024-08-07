@@ -8,4 +8,8 @@ Amazon Data Firehose provides the easiest way to reliably ingest, transform, and
 
 Step 1: Create firehose stream
 
-![Amazon Data Firehose](image-1.png)
+![Amazon Data Firehose](../assets/select-firehose-stream.png)
+
+Step 2: Choose source and Destination
+
+![Choose source and Destination](../assets/choose-source-and-destination.png)
