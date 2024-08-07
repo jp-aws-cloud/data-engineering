@@ -6,4 +6,6 @@ Amazon Data Firehose provides the easiest way to reliably ingest, transform, and
 
 ![Amazon Data Firehose](../assets/amazon-data-firehose.png)
 
-Step 1: 
+Step 1: Create firehose stream
+
+![Amazon Data Firehose](image-1.png)
